@@ -39,7 +39,7 @@ A [blink.cmp](https://github.com/Saghen/blink.cmp) completion source for Unicode
 
 | Option | Type | Default | Description |
 |---|---|---|---|
-| `trigger` | `string` | `:` | Trigger string that activate the source |
+| `trigger` | `string` | `:` | Trigger string that activates the source |
 
 ```lua
 opts = {
@@ -49,6 +49,6 @@ opts = {
 
 ## Usage
 
-Type the trigger character (default `:`) followed by a part of the glyph name to search for a nerdfont glyph.
+Type the trigger character (default `:`) followed by a part of the glyph name to search for an emoji glyph.
 
 <img width="1349" height="1100" alt="emoji" src="https://github.com/user-attachments/assets/b50fd19a-3ebf-4293-85b4-44ac5aed3cdc" />
