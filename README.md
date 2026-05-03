@@ -1,6 +1,6 @@
 # blink-cmp-emoji
 
-A [blink.cmp](https://github.com/Saghen/blink.cmp) completion source for [Nerd Font](https://www.nerdfonts.com/) glyphs.
+A [blink.cmp](https://github.com/Saghen/blink.cmp) completion source for Unicode Emoji v17.0 glyphs.
 
 ## Requirements
 
